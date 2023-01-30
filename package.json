@@ -1,5 +1,5 @@
 {
-    "name": "techblog_db",
+    "name": "customers_db",
     "version": "1.0.0",
     "description": "",
     "main": "server.js",
